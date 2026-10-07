@@ -1,0 +1,3 @@
+# Australia dental Google-review outreach exclusions
+# Append only successful Gmail draft recipients.
+# Format: email | Practice Name
