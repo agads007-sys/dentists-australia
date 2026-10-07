@@ -1,3 +1,9 @@
 # Australia dental Google-review outreach exclusions
 # Append only successful Gmail draft recipients.
 # Format: email | Practice Name
+
+drdonanderson@outlook.com | Ballarat Dentist Dr Don Anderson
+hello@ashmoredentistry.com.au | Ashmore Dentistry
+reception@smilewithme.com.au | Smile With Me
+reception@bendigodentist.com.au | Robertson Dental Innovations -on Condon
+reception@smollettstreetdental.com.au | Smollett St. Dental
